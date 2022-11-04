@@ -5,10 +5,10 @@ Machine learning model for predicting credit risk.
 
 ## Files
 
-(Credit Risk Evaluator-Annotated.ipynb)
+`Credit Risk Evaluator-Annotated.ipynb`
 
 Annotated Jupyter Notebook with initial prediction, code for models, and analysis of model performance. 
 
-(/Resources/lending_data.csv)
+`/Resources/lending_data.csv`
 
 Dataset used for training and testing of models.
