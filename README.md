@@ -1,7 +1,7 @@
 # credit-risk-evaluator
 Machine learning model for predicting credit risk.
 
-## William Vann Homework # 19
+## William Vann 
 
 ## Files
 
